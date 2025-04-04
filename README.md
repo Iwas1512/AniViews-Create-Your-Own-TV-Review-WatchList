@@ -86,5 +86,5 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 - [Spring Boot](https://spring.io/projects/spring-boot) for the backend framework
 - [React](https://reactjs.org/) for the frontend library
-- [MongoDB](https://www.mongodb.com/) for the database solution
+- [MongoDB](https://www.mongodb.com/) for the database solution :)
 
