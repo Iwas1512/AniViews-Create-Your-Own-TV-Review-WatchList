@@ -21,7 +21,7 @@ AniViews is an immersive platform dedicated to anime, movies, and TV show enthus
 ### Backend
 - **Java Spring Boot** - Backend framework 
 - **Maven** - Dependency management
-- **RESTful API** - For client-server communication
+- **RESTful API** - For client-server communication.
 
 ### Database
 - **MongoDB** - NoSQL database for storing user data, reviews, and media information
