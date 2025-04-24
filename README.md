@@ -4,7 +4,7 @@ AniViews is an immersive platform dedicated to anime, movies, and TV show enthus
 
 ## ShowCase
 -View Video Showcase at https://anliliwas.com/#/projects
-## 🌟 Features:
+## 🌟 Features
 
 - Browse an extensive collection of anime, movies, and TV shows
 - Read reviews from other users
